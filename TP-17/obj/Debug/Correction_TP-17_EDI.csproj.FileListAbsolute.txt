@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\bin\Debug\Correction_TP-17_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\bin\Debug\Correction_TP-17_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\bin\Debug\Correction_TP-17_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP-17_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP_17_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP_17_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP-17_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP-17_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP-17_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP17_EDI\obj\Debug\Correction_TP-17_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\bin\Debug\Correction_TP-17_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\bin\Debug\Correction_TP-17_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\bin\Debug\Correction_TP-17_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP-17_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP_17_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP_17_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP-17_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP-17_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP-17_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP17_Programmation-evenementielle_mini-calculatrice\VS DESIGN\obj\Debug\Correction_TP-17_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\bin\Debug\Correction_TP-17_EDI.exe.config
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\bin\Debug\Correction_TP-17_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\bin\Debug\Correction_TP-17_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP-17_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP_17_EDI.Form1.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP_17_EDI.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP-17_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP-17_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP-17_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-17\obj\Debug\Correction_TP-17_EDI.pdb
