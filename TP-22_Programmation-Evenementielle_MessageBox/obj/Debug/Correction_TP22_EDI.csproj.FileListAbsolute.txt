@@ -1,0 +1,27 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\bin\Debug\Correction_TP22_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\bin\Debug\Correction_TP22_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\bin\Debug\Correction_TP22_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP22_EDI\obj\Debug\Correction_TP22_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\bin\Debug\Correction_TP22_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\bin\Debug\Correction_TP22_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\bin\Debug\Correction_TP22_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP22_Programmation-evenementielle_MsgBox\VS DESIGN\obj\Debug\Correction_TP22_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.Form1.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-22_Programmation-Evenementielle_MessageBox\obj\Debug\Correction_TP22_EDI.pdb
