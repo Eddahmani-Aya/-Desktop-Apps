@@ -1,0 +1,33 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\bin\Debug\Correction_TP20_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\bin\Debug\Correction_TP20_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\bin\Debug\Correction_TP20_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.Back.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.coordonnes.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.Front.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP20_EDI\obj\Debug\Correction_TP20_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Back.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.coordonnes.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Front.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\bin\Debug\Correction_TP20_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\bin\Debug\Correction_TP20_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\bin\Debug\Correction_TP20_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Back.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.coordonnes.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Front.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP20_Programmation-evenementielle_Carte-visit\VS DESIGN\obj\Debug\Correction_TP20_EDI.pdb
