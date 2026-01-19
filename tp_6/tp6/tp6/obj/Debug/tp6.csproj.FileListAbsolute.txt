@@ -1,0 +1,11 @@
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\bin\Debug\tp6.exe.config
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\bin\Debug\tp6.exe
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\bin\Debug\tp6.pdb
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.Form1.resources
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.exe
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.pdb
+C:\Users\NEEKO\TP\tp_la\tp6\tp6\tp6\obj\Debug\tp6.Form2.resources
