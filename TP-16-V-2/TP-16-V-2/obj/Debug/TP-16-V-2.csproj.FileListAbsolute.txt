@@ -1,0 +1,10 @@
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\bin\Debug\TP-16-V-2.exe.config
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\bin\Debug\TP-16-V-2.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\bin\Debug\TP-16-V-2.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP-16-V-2.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP_16_V_2.Form1.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP_16_V_2.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP-16-V-2.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP-16-V-2.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP-16-V-2.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP-16-V-2\TP-16-V-2\obj\Debug\TP-16-V-2.pdb
