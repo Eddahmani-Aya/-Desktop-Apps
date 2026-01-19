@@ -1,0 +1,11 @@
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\bin\Debug\TP-15.exe.config
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\bin\Debug\TP-15.exe
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\bin\Debug\TP-15.pdb
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP-15.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP_15.Form1.resources
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP_15.Form2.resources
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP_15.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP-15.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP-15.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP-15.exe
+C:\Users\NEEKO\TP\tp_la\TP-15\TP-15\obj\Debug\TP-15.pdb
