@@ -1,0 +1,9 @@
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\bin\Debug\my_first_app.exe.config
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\bin\Debug\my_first_app.exe
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\bin\Debug\my_first_app.pdb
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.csproj.AssemblyReference.cache
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.Properties.Resources.resources
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.csproj.GenerateResource.cache
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.exe
+C:\Users\NEEKO\source\repos\my_first_app\my_first_app\obj\Debug\my_first_app.pdb
