@@ -1,0 +1,20 @@
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\bin\Debug\tp 3.exe.config
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\bin\Debug\tp 3.exe
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\bin\Debug\tp 3.pdb
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp 3.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp_3.Form1.resources
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp_3.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp 3.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp 3.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp 3.exe
+C:\Users\NEEKO\TP\tp_la\tp3\tp 3\tp 3\obj\Debug\tp 3.pdb
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\bin\Debug\tp 3.exe.config
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\bin\Debug\tp 3.exe
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\bin\Debug\tp 3.pdb
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp 3.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp_3.Form1.resources
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp_3.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp 3.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp 3.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp 3.exe
+C:\Users\NEEKO\TP\tp_la\tp_3\tp 3\tp 3\obj\Debug\tp 3.pdb
