@@ -1,0 +1,14 @@
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.AssemblyInfoInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.AssemblyInfo.cs
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\bin\Debug\net8.0\TP_12.exe
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\bin\Debug\net8.0\TP_12.deps.json
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\bin\Debug\net8.0\TP_12.runtimeconfig.json
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\bin\Debug\net8.0\TP_12.dll
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\bin\Debug\net8.0\TP_12.pdb
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.dll
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\refint\TP_12.dll
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.pdb
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\TP_12.genruntimeconfig.cache
+C:\Users\NEEKO\TP\tp_la\TP_12\TP_12\obj\Debug\net8.0\ref\TP_12.dll
