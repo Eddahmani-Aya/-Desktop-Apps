@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\bin\Debug\Correction_TP24_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\bin\Debug\Correction_TP24_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\bin\Debug\Correction_TP24_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP24_EDI\obj\Debug\Correction_TP24_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\bin\Debug\Correction_TP24_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\bin\Debug\Correction_TP24_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\bin\Debug\Correction_TP24_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP24_Programmation-evenementielle_DataGridView\VS DESIGN\obj\Debug\Correction_TP24_EDI.pdb
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\bin\Debug\Correction_TP24_EDI.exe.config
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\bin\Debug\Correction_TP24_EDI.exe
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\bin\Debug\Correction_TP24_EDI.pdb
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.Form1.resources
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.exe
+C:\Users\NEEKO\TP\second year BTS\tp_la\TP24_Programmation-evenementielle_DataGridView\obj\Debug\Correction_TP24_EDI.pdb
