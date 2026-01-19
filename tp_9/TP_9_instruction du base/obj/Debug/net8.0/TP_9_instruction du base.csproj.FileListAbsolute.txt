@@ -1,0 +1,14 @@
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.AssemblyInfoInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.AssemblyInfo.cs
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\bin\Debug\net8.0\TP_9_instruction du base.exe
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\bin\Debug\net8.0\TP_9_instruction du base.deps.json
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\bin\Debug\net8.0\TP_9_instruction du base.runtimeconfig.json
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\bin\Debug\net8.0\TP_9_instruction du base.dll
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\bin\Debug\net8.0\TP_9_instruction du base.pdb
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.dll
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\refint\TP_9_instruction du base.dll
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.pdb
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\TP_9_instruction du base.genruntimeconfig.cache
+C:\Users\NEEKO\TP\tp_la\TP_9_instruction du base\TP_9_instruction du base\obj\Debug\net8.0\ref\TP_9_instruction du base.dll
