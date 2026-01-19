@@ -1,0 +1,10 @@
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\bin\Debug\tp 4.exe.config
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\bin\Debug\tp 4.exe
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\bin\Debug\tp 4.pdb
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp 4.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp_4.Form1.resources
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp_4.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp 4.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp 4.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp 4.exe
+C:\Users\NEEKO\TP\tp_la\tp4\tp 4\tp 4\obj\Debug\tp 4.pdb
