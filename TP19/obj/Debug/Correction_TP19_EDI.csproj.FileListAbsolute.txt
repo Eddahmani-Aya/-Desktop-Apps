@@ -1,0 +1,44 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\bin\Debug\Correction_TP19_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\bin\Debug\Correction_TP19_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\bin\Debug\Correction_TP19_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.Form2.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP19_EDI\obj\Debug\Correction_TP19_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\bin\Debug\Correction_TP19_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\bin\Debug\Correction_TP19_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\bin\Debug\Correction_TP19_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.Form2.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Ennoncé\PDF\TP19_Programmation-evenementielle_CV\VS DESIGN\obj\Debug\Correction_TP19_EDI.pdb
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\bin\Debug\Correction_TP19_EDI.exe.config
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\bin\Debug\Correction_TP19_EDI.exe
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\bin\Debug\Correction_TP19_EDI.pdb
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.Form1.resources
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.Form2.resources
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.Properties.Resources.resources
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.exe
+C:\Users\NEEKO\bts\second year BST\EDI\TP19_\obj\Debug\Correction_TP19_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\bin\Debug\Correction_TP19_EDI.exe.config
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\bin\Debug\Correction_TP19_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\bin\Debug\Correction_TP19_EDI.pdb
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.Form1.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.Form2.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.Properties.Resources.resources
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.exe
+C:\Users\NEEKO\TP\second year BST\tp_la\TP19\obj\Debug\Correction_TP19_EDI.pdb
