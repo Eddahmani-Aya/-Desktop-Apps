@@ -1,0 +1,10 @@
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\bin\Debug\tp5.exe.config
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\bin\Debug\tp5.exe
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\bin\Debug\tp5.pdb
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.csproj.AssemblyReference.cache
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.Form1.resources
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.Properties.Resources.resources
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.csproj.GenerateResource.cache
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.exe
+C:\Users\NEEKO\TP\tp_la\tp5\tp5\obj\Debug\tp5.pdb
