@@ -1,0 +1,14 @@
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\bin\Debug\net8.0\TP_10.exe
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\bin\Debug\net8.0\TP_10.deps.json
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\bin\Debug\net8.0\TP_10.runtimeconfig.json
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\bin\Debug\net8.0\TP_10.dll
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\bin\Debug\net8.0\TP_10.pdb
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.AssemblyInfoInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.AssemblyInfo.cs
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.csproj.CoreCompileInputs.cache
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.dll
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\refint\TP_10.dll
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.pdb
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\TP_10.genruntimeconfig.cache
+C:\Users\NEEKO\TP\tp_la\TP_10\TP_10\obj\Debug\net8.0\ref\TP_10.dll
